@@ -1,0 +1,30 @@
+{
+  "products": [
+    "Apple",
+    "Banana",
+    "Guava",
+    "Lemon",
+    "Lime",
+    "Orange",
+    "Pomegranate"
+  ],
+  "qualities": [
+    "Bad",
+    "Good",
+    "Medium"
+  ],
+  "product_to_id": {
+    "Apple": 0,
+    "Banana": 1,
+    "Guava": 2,
+    "Lemon": 3,
+    "Lime": 4,
+    "Orange": 5,
+    "Pomegranate": 6
+  },
+  "quality_to_id": {
+    "Bad": 0,
+    "Good": 1,
+    "Medium": 2
+  }
+}
